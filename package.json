@@ -1,0 +1,12 @@
+{
+  "name": "@aneron/edge-presence",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fold heartbeats from several paths into one presence, without letting a fast path become the only path.",
+  "license": "MIT",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
