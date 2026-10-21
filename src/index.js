@@ -1,1 +1,7 @@
-export { DEFAULT_ONLINE_MS, chooseBase, foldPresence, shouldPersistBase } from "./presence.js";
+export {
+  DEFAULT_ONLINE_MS,
+  PresenceState,
+  chooseBase,
+  foldPresence,
+  shouldPersistBase
+} from "./presence.js";
